@@ -1,2 +1,2 @@
 # writeups
-Writeups de Hack The Box y explicaciones de conceptos aplicados a computer science y ciberseguridad.
+Explicaciones técnicas en formato writeup sobre conceptos de CS aplicados a ciberseguridad
